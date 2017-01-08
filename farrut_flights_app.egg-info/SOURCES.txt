@@ -1,0 +1,7 @@
+farrut.py
+farrut_flights_app.egg-info/PKG-INFO
+farrut_flights_app.egg-info/SOURCES.txt
+farrut_flights_app.egg-info/dependency_links.txt
+farrut_flights_app.egg-info/entry_points.txt
+farrut_flights_app.egg-info/requires.txt
+farrut_flights_app.egg-info/top_level.txt
